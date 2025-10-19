@@ -1,10 +1,9 @@
 # 👋 Halo, saya Mohamad Aban Sy'bana
 
-💻 Mahasiswa Informatika | 🔥 Anggota PBK Fasilkom  
-Saya suka membuat proyek web menggunakan **HTML**, **CSS**, **PHP**, dan **Bootstrap**.  
-Saat ini saya sedang mengembangkan website **Warung Mang Oman** 🍽️.
+💻 Mahasiswa Informatika | 🔥   
+Saya suka membuat proyek web menggunakan **HTML**, **CSS**, **PHP**, **Bootstrap**, dan **NextJs**🍽️.
 
-### 🚀 Teknologi yang saya kuasai
+### 🚀 Teknologi yang saya kuasai Masih dalam tahapan belajar
 - HTML, CSS, JavaScript
 - PHP Native & MySQL
 - Bootstrap 5
