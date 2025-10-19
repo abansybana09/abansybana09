@@ -15,4 +15,7 @@ Saya suka membuat proyek web menggunakan **HTML**, **CSS**, **PHP**, **Bootstrap
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abansybana09&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abansybana09&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abansybana09&show_icons=true&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,bootstrap,react)](https://skillicons.dev)
+
 
