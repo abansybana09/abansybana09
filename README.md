@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Halo, saya Mohamad Aban Sy'bana
 
-<!--
-**abansybana09/abansybana09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Mahasiswa Informatika | 🔥 Anggota PBK Fasilkom  
+Saya suka membuat proyek web menggunakan **HTML**, **CSS**, **PHP**, dan **Bootstrap**.  
+Saat ini saya sedang mengembangkan website **Warung Mang Oman** 🍽️.
 
-Here are some ideas to get you started:
+### 🚀 Teknologi yang saya kuasai
+- HTML, CSS, JavaScript
+- PHP Native & MySQL
+- Bootstrap 5
+- React & Next.js (belajar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Hubungi saya
+📧 Email: mohamadaban@example.com  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abansybana09&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abansybana09&layout=compact&theme=tokyonight)
+
