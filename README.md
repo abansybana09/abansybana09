@@ -12,7 +12,7 @@ Saat ini saya sedang mendalami pengembangan web menggunakan **HTML**, **CSS**, *
 
 Saya bersemangat dalam membuat solusi berbasis web. Inilah beberapa teknologi yang saya gunakan:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nextjs,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nextjs,github,react,vscode)](https://skillicons.dev)
 
 ---
 
